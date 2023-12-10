@@ -13,12 +13,3 @@
         }
     }
 }
-/*
-
-
- Given the following code, change the code to implement:
-inferred typing
-string interpolation
-and the ternary operator
- 
- */
